@@ -73,8 +73,7 @@ In this phase, we leveraged statistical analysis to uncover insights and address
 - Performance Comparison of Experienced and Young Football Players After Transfers to New Teams
 - Performance Comparison of Teams in UEFA Champions League and Domestic Leagues
 
-### 
-Phase 4: Machine Learning Insights
+### Phase 4: Machine Learning Insights
 
 In this pivotal phase, we harnessed the power of machine learning techniques to tackle three critical questions:
 
