@@ -68,7 +68,7 @@ In this phase, we leveraged statistical analysis to uncover insights and address
 - Discrepancy Between Player Transfer Fees and Actual Values in Football Industry: A Comparative Analysis
 - Identifying Players with Performance in the Top 30% but Market Value in the Bottom 40%
 - Comparing Performance Distribution of Players Obtained in the previous parts with the Overall Player Population
-- "Comparing Distribution of Players' Positions Obtained in the previous parts with the Overall Player Community"
+- Comparing Distribution of Players' Positions Obtained in the previous parts with the Overall Player Community
 - Identifying Underperforming Players in Top 5 European Leagues Based on Performance Metrics
 - Performance Comparison of Experienced and Young Football Players After Transfers to New Teams
 - Performance Comparison of Teams in UEFA Champions League and Domestic Leagues
